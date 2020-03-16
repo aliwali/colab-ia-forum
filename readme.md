@@ -46,7 +46,7 @@ Try out deep learning models online on Colab with a single click.
 * Mask RCNN demo using [Detectron](https://github.com/facebookresearch/Detectron)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aliwali/colab-ia-forum/blob/master/Detectron_MaskRCNN.ipynb)
 * Official Mask RCNN demo from [Detectron2](https://github.com/facebookresearch/detectron2)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aliwali/colab-ia-forum/blob/master/Detectron2_Tutorial.ipynb)
 * Mask RCNN demo from [torchvision](https://pytorch.org/docs/stable/torchvision/index.html)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aliwali/colab-ia-forum/blob/master/TorchvisionMaskRCNN.ipynb)
 * CenterNet (Objects as Points) demo using [xingyizhou/CenterNet](https://github.com/xingyizhou/CenterNet)
