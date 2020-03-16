@@ -34,7 +34,7 @@ Try out deep learning models online on Colab with a single click.
 
 ## Object Detection
 * Tensorflow object detection: FasterRCNN+InceptionResNet and ssd+mobilenet
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/object_detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aliwali/colab-ia-forum/blob/master/Object_detection.ipynb)
 * Cascade RCNN demo using [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aliwali/colab-ia-forum/blob/master/Open_MMLab_Detection_Toolbox_Cascade_RCNN.ipynb)
 * YOLO demo using [ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3)
