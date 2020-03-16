@@ -56,7 +56,7 @@ Try out deep learning models online on Colab with a single click.
   * works only on a Kitti image because of camera parameters
 
 ## Segmentation
-* For Mask RCNN, see [Object Detection](https://github.com/tugstugi/dl-colab-notebooks#object-detection)
+* For Mask RCNN, see [Object Detection](https://github.com/aliwali/colab-ia-forum#object-detection)
 * Semantic segmentation trained on [ADE20K](http://groups.csail.mit.edu/vision/datasets/ADE20K/) using [CSAILVision/semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aliwali/colab-ia-forum/blob/master/CSAILVision_SemanticSegmentation.ipynb)
 * [DeepLabV3](https://arxiv.org/abs/1706.05587) from [torchvision 0.3.0](https://pytorch.org/docs/stable/torchvision/index.html)
